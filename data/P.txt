@@ -1,0 +1,13 @@
+pójdziemy;;0,6
+razem;;0,4
+kina;;0,6
+będzie;;0,4
+tak;;0,2
+dalej;;0,4
+natomiast;;0,2
+jestdspe;;0,2
+gdzieś;;0,2
+spacer;;0,2
+zależności;;0,2
+jaka;;0,2
+pogoda;;0,2

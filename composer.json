@@ -1,0 +1,11 @@
+{
+    "name": "bayes/tomek",
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "4.3.*"
+    },
+    "autoload": {
+        "classmap": ["class"],
+        "files": ["config.php"]
+    }
+}
