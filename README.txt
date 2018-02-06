@@ -1,4 +1,17 @@
+Author: tomek.antczak@gmail.com
 This PHP package provides simple implementation of bayes text analysis algorithm. With this tool you can determine genre of a text. Available genres are collected in data folder in form of a text files. Adding new genre is simple, just add new empty file to data folder and give it’s name for instance ‘genrename.txt’. By default source text for learning and examining is placed in SOURCE.txt file. Phpunit test is available for this class. You can install this package in your project via composer
+
+{
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/Tomek83/bayes"
+    }
+  ],
+  "require": {
+    "bayes/bayes": "dev-master"
+  }
+}
 
 Learning process
 
