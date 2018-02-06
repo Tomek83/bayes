@@ -1,11 +1,14 @@
 {
-    "name": "bayes/tomek",
-    "require": {},
-    "require-dev": {
-        "phpunit/phpunit": "4.3.*"
+  "name": "bayes/bayes",
+  "require": {},
+  "require-dev": {
+    "phpunit/phpunit": "5.7.*"
+  },
+  "autoload": {
+    "psr-4": {
+      "bayes\\classes\\": "class/",
+      "bayes\\interfaces\\": "interface/"
     },
-    "autoload": {
-        "classmap": ["class"],
-        "files": ["config.php"]
-    }
+    "files": ["config.php"]
+  }
 }
